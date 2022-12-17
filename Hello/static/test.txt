@@ -1,0 +1,1 @@
+this is just a test to test the static func.it is visible to all the users.therefore publically available.
